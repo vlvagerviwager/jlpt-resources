@@ -22,10 +22,10 @@ This is a record of the tools I used to study for the JLPT exams. (I do not have
 - Kuma Learn SRS - 10 cards per day
 - https://japanesetest4you.com/category/jlpt-n5/
 
-## Tried and abandoned
+## Tried and abandoned for N5
 
 - Anki
 - Satori Reader
-- Duolingo (completed the original Japanese course before the UI update)
-- Shin Nihongo 500 Mon
-- A Guide to Japanese Grammer by Tae Kim
+- Duolingo (I completed the original Japanese course before the big UI update)
+- Shin Nihongo 500 Mon - this would be more useful for N4 imo. 
+- A Guide to Japanese Grammar by Tae Kim - it would be more useful for higher levels - too in-depth for N5. 
