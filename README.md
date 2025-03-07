@@ -4,8 +4,8 @@ This is a record of the tools I used to study for the JLPT exams. (I do not have
 
 ## N5
 
-- WaniKani (level 7)
-- Try! N5
+- App: WaniKani (level 7)
+- Book: Try! N5
 - Moji N5 iOS app
 - Tofugu particle explanations
   - https://www.tofugu.com/japanese-grammar/particle-ga/
@@ -17,15 +17,15 @@ This is a record of the tools I used to study for the JLPT exams. (I do not have
 
 ## N4
 
-- WaniKani
-- Try! N4
-- Kuma Learn SRS - 10 cards per day
+- App: WaniKani
+- Book: Try! N4
+- App: Kuma Learn SRS - 10 cards per day
 - https://japanesetest4you.com/category/jlpt-n5/
 
 ## Tried and abandoned for N5
 
-- Anki
-- Satori Reader
-- Duolingo (I completed the original Japanese course before the big UI update)
-- Shin Nihongo 500 Mon - this would be more useful for N4 imo. 
-- A Guide to Japanese Grammar by Tae Kim - it would be more useful for higher levels - too in-depth for N5. 
+- App: Anki
+- App: Satori Reader
+- App: Duolingo (I completed the original Japanese course before the big UI update)
+- Book: Shin Nihongo 500 Mon - this would be more useful for N4 imo. 
+- Book: A Guide to Japanese Grammar by Tae Kim - it would be more useful for higher levels - too in-depth for N5. 
