@@ -4,7 +4,7 @@ This is a record of the tools I used to study for the JLPT exams. (I do not have
 
 ## N5 - passed in Dec 2024
 
-- App: WaniKani (level 7)
+- App: WaniKani (reached level 7)
 - Book: Try! N5
 - Moji N5 iOS app
 - Tofugu particle explanations
