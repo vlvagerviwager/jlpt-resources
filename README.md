@@ -4,9 +4,9 @@ This is a record of the tools I used to study for the JLPT exams. (I do not have
 
 ## N5 - passed in Dec 2024
 
-- App: WaniKani (reached level 7)
+- App for kanji: [WaniKani](https://www.wanikani.com/) (reached level 7)
 - Book: Try! N5
-- Moji N5 iOS app
+- App for words: Moji N5 
 - Tofugu particle explanations
   - https://www.tofugu.com/japanese-grammar/particle-ga/
   - https://www.tofugu.com/japanese-grammar/particle-wo/
@@ -25,7 +25,11 @@ This is a record of the tools I used to study for the JLPT exams. (I do not have
 
 ## N4
 
-- App: WaniKani
+- App for kanji: [WaniKani](https://www.wanikani.com/)
 - Book: Try! N4
-- App: Kuma Learn SRS - 10 cards per day
-- https://japanesetest4you.com/category/jlpt-n5/
+- App for vocabulary: [Renshuu](https://www.renshuu.org/) 
+- Practice tests: https://japanesetest4you.com/category/jlpt-n5/
+
+### Tried and abandoned for N4
+
+- App: Kuma Learn SRS, 10 cards per day - very buggy and unreliable. 
